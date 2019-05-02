@@ -1,0 +1,39 @@
+.badge-primary {
+    color: #fff;
+    background-color: #007bff;
+    font-size: 20px;
+}
+.color1{
+    background: red;
+    height: 150px;
+}
+
+.color2{
+    background: black;
+    height: 150px;
+}
+
+.color3{
+    background: green;
+    height: 150px;
+}
+
+.color4{
+    background: blue;
+    height: 150px;
+}
+
+.color5{
+    background: yellow;
+    height: 150px;
+}
+
+.text-center {
+    text-align: center!important;
+}
+.card-deck .card {
+    min-width: 220px;
+}
+.container {
+    max-width: 960px;
+}
